@@ -1,0 +1,7 @@
+Passionate and driven computer engineering student with a focus on full-stack web development using the MERN stack. 
+Skilled in creating robust and user-friendly web applications, I possess a strong foundation in front-end 
+technologies such as HTML, CSS, and JavaScript, along with expertise in React.js for building dynamic and 
+responsive user interfaces. With a keen eye for detail and a solid understanding of back-end development, I excel in server-side programming 
+using Node.js and Express.js crafting efficient APIs and integrating data seamlessly into web applications. 
+My proficiency extends to MySQL databases, where I am adept at designing, optimizing, and maintaining complex 
+data structures.

@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MyPortfolio/static/css/main.29cb45ee.css",
+    "main.js": "/MyPortfolio/static/js/main.979deb3a.js",
+    "static/js/787.1f11dfe9.chunk.js": "/MyPortfolio/static/js/787.1f11dfe9.chunk.js",
+    "static/media/spacebackground.mp4": "/MyPortfolio/static/media/spacebackground.a0c4a54746c6544d7099.mp4",
+    "static/media/home-ufo-image.png": "/MyPortfolio/static/media/home-ufo-image.5309452532a795aea754.png",
+    "static/media/weather-app.png": "/MyPortfolio/static/media/weather-app.6a3aed302be01ab5b64a.png",
+    "static/media/personal-finance-manager.png": "/MyPortfolio/static/media/personal-finance-manager.cbd12154c636a8ef346c.png",
+    "static/media/my-photo-new.png": "/MyPortfolio/static/media/my-photo-new.e74443550f1095dafb2a.png",
+    "static/media/traffic-hotspot-analysis.jpg": "/MyPortfolio/static/media/traffic-hotspot-analysis.8c28f016c46a9d9340ae.jpg",
+    "static/media/contact-me.png": "/MyPortfolio/static/media/contact-me.945a2dc47390c262d0dd.png",
+    "index.html": "/MyPortfolio/index.html",
+    "main.29cb45ee.css.map": "/MyPortfolio/static/css/main.29cb45ee.css.map",
+    "main.979deb3a.js.map": "/MyPortfolio/static/js/main.979deb3a.js.map",
+    "787.1f11dfe9.chunk.js.map": "/MyPortfolio/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29cb45ee.css",
+    "static/js/main.979deb3a.js"
+  ]
+}
